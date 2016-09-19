@@ -1,0 +1,25 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "learning typesscript book",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgooood/ts-book.git"
+  },
+  "author": "mgood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgooood/ts-book/issues"
+  },
+  "homepage": "https://github.com/mgooood/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.13.6"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
